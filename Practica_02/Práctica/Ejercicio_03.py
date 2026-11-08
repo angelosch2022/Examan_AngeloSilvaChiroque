@@ -4,9 +4,9 @@ Requisitos:
     • Crear una función que solicite al usuario dos valores numéricos por consola y los retorne para utilizarlos en las operaciones.
     • Crear una función que reciba dos valores como parámetros, realice una división y retorne el resultado.
     • Crear una función que reciba dos valores como parámetros, realice una suma y retorne el resultado.
-    • Solicitar al usuario cuántos elementos desea registrar (N) y crear una función que reciba esos datos ingresados por consola, los almacene en una lista y retorne la lista.
-    • Solicitar al usuario el índice que desea consultar y crear una función que reciba la lista y dicho índice como parámetros para retornar el elemento correspondiente.
-    • Controlar los errores provocados por entradas no numéricas, divisiones entre cero, operaciones entre tipos incompatibles y consultas a posiciones inexistentes de la lista.
+    • Solicitar al usuario cuántos elementos desea registrar (N) y crear una función que reciba esos datos ingresados por consola, los almacene en una lista y retorne la lista. 
+    • Solicitar al usuario el índice que desea consultar y crear una función que reciba la lista y dicho índice como parámetros para retornar el elemento correspondiente. 
+    • Controlar los errores provocados por entradas no numéricas, divisiones entre cero, operaciones entre tipos incompatibles y consultas a posiciones inexistentes de la lista. 
     • Cuando se produzca un error, mostrar un mensaje descriptivo y permitir un nuevo intento de la operación correspondiente.
     • Utilizar else y finally en al menos una de las operaciones realizadas.
     • Ejecutar las funciones creadas utilizando los datos proporcionados por el usuario y mostrar por consola los resultados de las operaciones correctas. Incluir 3 pruebas con datos válidos e inválidos.

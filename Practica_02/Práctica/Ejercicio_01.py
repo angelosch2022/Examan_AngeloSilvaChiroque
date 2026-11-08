@@ -1,8 +1,9 @@
 """
 1. Registro de personas (4 ptos)
     Requisitos:
+    
     • Crear una clase Persona con los atributos nombre, edad, saldo y nacionalidad. La nacionalidad tendrá como valor inicial “Peruana”.
-    • Implementar un método que permita registrar el nombre y la edad de una persona mediante la consola. Si la edad ingresada no es un número entero válido o es negativa, informar el problema y solicitar nuevamente el dato.
+    • Implementar un método que permita registrar el nombre y la edad de una persona mediante la consola. Si la edad ingresada no es un número entero válido o es negativa, informar el problema y solicitar nuevamente el dato. 
     • Implementar un método cumpleaños que incremente la edad en un año cada vez que se invoque.
     • Crear como mínimo dos objetos de la clase Persona, utilizar el método cumpleaños y mostrar las edades actualizadas.
     • Registrar el momento de creación de cada persona y mostrar, mediante una función, la fecha y hora de registro con precisión de minutos.
