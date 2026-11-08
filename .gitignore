@@ -1,0 +1,8 @@
+.venv/
+venv/
+Esfera_2_env/
+__pycache__/
+*.pyc
+.idea/
+.env
+env_*/
